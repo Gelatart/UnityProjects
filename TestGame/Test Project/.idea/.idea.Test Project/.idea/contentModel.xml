@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Gamer\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gamer\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Test Project.-1696288802.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Gamer\Documents\UnityProjects\TestGame\Test Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="DGM-1610-Based" t="Include">
+            <e p="BoolData.cs" t="Include" />
+            <e p="Collection.cs" t="Include" />
+            <e p="Counter.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="Forces.cs" t="Include" />
+            <e p="MonoEvents.cs" t="Include" />
+            <e p="MoveBase.cs" t="Include" />
+            <e p="MoveCharacter.cs" t="Include" />
+            <e p="MoveSingleJump.cs" t="Include" />
+            <e p="MoveWithAxis.cs" t="Include" />
+            <e p="PowerUpBase.cs" t="Include" />
+            <e p="StateMachine.cs" t="Include" />
+            <e p="StringData.cs" t="Include" />
+          </e>
+          <e p="InterpolatedFollow.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test Project.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

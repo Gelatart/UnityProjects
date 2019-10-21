@@ -33,3 +33,4 @@ public class MoveCharacter : MonoBehaviour
 
     }
 }
+//Taken from script from DGM 1610 project
