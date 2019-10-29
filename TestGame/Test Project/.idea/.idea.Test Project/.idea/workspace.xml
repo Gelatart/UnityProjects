@@ -9,27 +9,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MoveWithAxis.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <marker date="1571658430351" expanded="true" signature="6:78" ph="..." />
-                <marker date="1571658430351" expanded="true" signature="134:574" ph="{...}" />
-                <marker date="1571658430351" expanded="true" signature="198:572" ph="{...}" />
-                <marker date="1571658430351" expanded="true" signature="280:373" ph="{...}" />
-                <marker date="1571658430351" expanded="true" signature="386:455" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
+            <state relative-caret-position="600">
               <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="41" />
               <folding>
                 <marker date="1571658508745" expanded="true" signature="6:104" ph="..." />
@@ -50,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StateMachine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
+            <state relative-caret-position="555">
               <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="41" />
               <folding>
                 <marker date="1571658581183" expanded="true" signature="6:118" ph="..." />
@@ -66,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StringData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="75">
               <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="41" />
               <folding>
                 <marker date="1571659036952" expanded="false" signature="6:78" ph="..." />
@@ -79,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/BoolData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="90">
               <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <marker date="1571659079872" expanded="false" signature="6:78" ph="..." />
@@ -92,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Collection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
+            <state relative-caret-position="1395">
               <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="41" />
               <folding>
                 <marker date="1571659246000" expanded="false" signature="6:78" ph="..." />
@@ -112,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="435">
               <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
               <folding>
                 <marker date="1571659293806" expanded="false" signature="6:78" ph="..." />
@@ -129,10 +113,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+              <folding>
+                <marker date="1572338095616" expanded="true" signature="6:44" ph="..." />
+                <marker date="1572338095616" expanded="true" signature="242:964" ph="{...}" />
+                <marker date="1572338095616" expanded="true" signature="351:403" ph="{...}" />
+                <marker date="1572338095616" expanded="true" signature="428:677" ph="{...}" />
+                <marker date="1572338095616" expanded="true" signature="724:962" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Forces.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="255">
               <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="41" />
               <folding>
                 <marker date="1571658800911" expanded="false" signature="6:78" ph="..." />
@@ -148,7 +148,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Counter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
+            <state relative-caret-position="390">
               <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="41" />
               <folding>
                 <marker date="1571658851080" expanded="true" signature="6:104" ph="..." />
@@ -164,7 +164,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="345">
               <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
               <folding>
                 <marker date="1571658921367" expanded="false" signature="6:78" ph="..." />
@@ -185,6 +185,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MoveBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StringData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -211,10 +212,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/BoolData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Collection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="680" />
     <option name="width" value="1161" />
     <option name="height" value="1003" />
@@ -225,35 +227,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-              <item name="DGM-1610-Based" type="1045f7f1:UnityExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,11 +284,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571658388226</updated>
       <workItem from="1571658391007" duration="975000" />
+      <workItem from="1572337823810" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="975000" />
+    <option name="totallyTimeSpent" value="1857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -318,19 +301,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1858" height="1012" extended-state="6" />
+    <frame x="-8" y="-8" width="1858" height="1012" extended-state="7" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1528627" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1545303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -338,12 +313,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,10 +386,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MoveWithAxis.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="105">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
-            <marker date="1571658430351" expanded="true" signature="6:78" ph="..." />
+            <element signature="e#0#78#0" expanded="true" />
             <marker date="1571658430351" expanded="true" signature="134:574" ph="{...}" />
             <marker date="1571658430351" expanded="true" signature="198:572" ph="{...}" />
             <marker date="1571658430351" expanded="true" signature="280:373" ph="{...}" />
@@ -417,7 +400,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
+        <state relative-caret-position="600">
           <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="41" />
           <folding>
             <marker date="1571658508745" expanded="true" signature="6:104" ph="..." />
@@ -434,51 +417,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Forces.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <marker date="1571658800911" expanded="false" signature="6:78" ph="..." />
-            <marker date="1571658800911" expanded="true" signature="117:450" ph="{...}" />
-            <marker date="1571658800911" expanded="true" signature="206:261" ph="{...}" />
-            <marker date="1571658800911" expanded="true" signature="294:448" ph="{...}" />
-            <marker date="1571658800911" expanded="true" signature="346:442" ph="/* was a float force: 0,force,0 ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Counter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <marker date="1571658851080" expanded="true" signature="6:104" ph="..." />
-            <marker date="1571658851080" expanded="true" signature="142:714" ph="{...}" />
-            <marker date="1571658851080" expanded="true" signature="296:346" ph="{...}" />
-            <marker date="1571658851080" expanded="true" signature="413:711" ph="{...}" />
-            <marker date="1571658851080" expanded="true" signature="507:642" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/PowerUpBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <marker date="1571658921367" expanded="false" signature="6:78" ph="..." />
-            <marker date="1571658921367" expanded="true" signature="141:503" ph="{...}" />
-            <marker date="1571658921367" expanded="true" signature="296:329" ph="{...}" />
-            <marker date="1571658921367" expanded="true" signature="372:501" ph="{...}" />
-            <marker date="1571658921367" expanded="true" signature="435:485" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StateMachine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
+        <state relative-caret-position="555">
           <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="41" />
           <folding>
             <marker date="1571658581183" expanded="true" signature="6:118" ph="..." />
@@ -492,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/StringData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="41" />
           <folding>
             <marker date="1571659036952" expanded="false" signature="6:78" ph="..." />
@@ -503,7 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/BoolData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="90">
           <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="41" />
           <folding>
             <marker date="1571659079872" expanded="false" signature="6:78" ph="..." />
@@ -514,7 +455,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Collection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
+        <state relative-caret-position="1395">
           <caret line="99" selection-start-line="99" selection-end-line="99" selection-end-column="41" />
           <folding>
             <marker date="1571659246000" expanded="false" signature="6:78" ph="..." />
@@ -533,9 +474,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Forces.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <marker date="1571658800911" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571658800911" expanded="true" signature="117:450" ph="{...}" />
+            <marker date="1571658800911" expanded="true" signature="206:261" ph="{...}" />
+            <marker date="1571658800911" expanded="true" signature="294:448" ph="{...}" />
+            <marker date="1571658800911" expanded="true" signature="346:442" ph="/* was a float force: 0,force,0 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/Counter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <marker date="1571658851080" expanded="true" signature="6:104" ph="..." />
+            <marker date="1571658851080" expanded="true" signature="142:714" ph="{...}" />
+            <marker date="1571658851080" expanded="true" signature="296:346" ph="{...}" />
+            <marker date="1571658851080" expanded="true" signature="413:711" ph="{...}" />
+            <marker date="1571658851080" expanded="true" signature="507:642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/PowerUpBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <marker date="1571658921367" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571658921367" expanded="true" signature="141:503" ph="{...}" />
+            <marker date="1571658921367" expanded="true" signature="296:329" ph="{...}" />
+            <marker date="1571658921367" expanded="true" signature="372:501" ph="{...}" />
+            <marker date="1571658921367" expanded="true" signature="435:485" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DGM-1610-Based/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="435">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
           <folding>
             <marker date="1571659293806" expanded="false" signature="6:78" ph="..." />
@@ -544,6 +527,20 @@
             <marker date="1571659293806" expanded="true" signature="381:418" ph="{...}" />
             <marker date="1571659293806" expanded="true" signature="466:510" ph="{...}" />
             <marker date="1571659293806" expanded="true" signature="516:757" ph="/* public void Init(float Value) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="111" selection-start-line="30" selection-start-column="111" selection-end-line="30" selection-end-column="111" />
+          <folding>
+            <marker date="1572338095616" expanded="true" signature="6:44" ph="..." />
+            <marker date="1572338095616" expanded="true" signature="242:964" ph="{...}" />
+            <marker date="1572338095616" expanded="true" signature="351:403" ph="{...}" />
+            <marker date="1572338095616" expanded="true" signature="428:677" ph="{...}" />
+            <marker date="1572338095616" expanded="true" signature="724:962" ph="{...}" />
           </folding>
         </state>
       </provider>

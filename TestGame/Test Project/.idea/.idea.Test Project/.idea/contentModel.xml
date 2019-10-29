@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
+          <e p="CameraRotate.cs" t="Include" />
           <e p="DGM-1610-Based" t="Include">
             <e p="BoolData.cs" t="Include" />
             <e p="Collection.cs" t="Include" />

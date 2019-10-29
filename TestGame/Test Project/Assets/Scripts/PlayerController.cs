@@ -5,6 +5,7 @@ using System.Collections;
 public class PlayerController : MonoBehaviour {
 
     public float speed;
+    public Vector3 startingPosition;
 
     private Rigidbody rb;
 
@@ -21,5 +22,12 @@ public class PlayerController : MonoBehaviour {
         Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
 
         rb.AddForce (movement * speed);
+    }
+    void OnCollisionEnter(Collision collision)
+    {
+
+        if (collision.gameObject.name == "Portal")
+            gameObject.transform.position = startingPosition;
+        //Teleport inspiration: https://answers.unity.com/questions/1266525/how-to-create-a-portalteleport.html
     }
 }
