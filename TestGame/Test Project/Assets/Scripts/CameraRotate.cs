@@ -31,10 +31,20 @@ public class CameraRotate : MonoBehaviour
         	transform.RotateAround(focus.position, Vector3.up, rotateSpeed * Time.deltaTime);
     	}
 
-    	if(Input.GetKey (KeyCode.Q))
+    	else if(Input.GetKey (KeyCode.Q))
     	{
         	transform.RotateAround(focus.position, -Vector3.up, rotateSpeed * Time.deltaTime);
     	}
+    	if(Input.GetKey (KeyCode.Z))
+        {
+	        transform.RotateAround(focus.position, -Vector3.right, rotateSpeed * Time.deltaTime); 
+        }
+            	
+        else if(Input.GetKey (KeyCode.X)) 
+        {
+	        transform.RotateAround(focus.position, Vector3.right, rotateSpeed * Time.deltaTime);
+		}
+    	
 	}
 	//Inspiration: https://gamedev.stackexchange.com/questions/154078/how-do-i-rotate-the-camera-around-the-player-by-keypress-in-unity
 }
