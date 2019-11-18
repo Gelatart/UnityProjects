@@ -44,4 +44,12 @@ public class PlayerController : MonoBehaviour {
             gameObject.transform.position = startingPosition;
         //Teleport inspiration: https://answers.unity.com/questions/1266525/how-to-create-a-portalteleport.html
     }
+    void OnTriggerEnter(Collider other) 
+    {
+        if (other.gameObject.CompareTag ("Pick Up"))
+        {
+            other.gameObject.SetActive (false);
+        }
+    }
+    //Inspired by: https://learn.unity.com/tutorial/collecting-scoring-and-building-the-game?projectId=5c51479fedbc2a001fd5bb9f#5c7f8529edbc2a002053b789
 }
