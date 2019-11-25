@@ -17,7 +17,8 @@ public class MoveSingleJump : MoveBase
         }
         position.y += Gravity*Time.deltaTime;
         position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime;
+        position.z = Input.GetAxis("Vertical") * Speed * Time.deltaTime;
         controller.Move(position);
     }  
 }
-//Taken from script from DGM 1610 project
+//Taken from script from DGM 1610 project, modified

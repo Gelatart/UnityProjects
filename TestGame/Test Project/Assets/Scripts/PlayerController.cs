@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 //Original template taken from Unity Roll-A-Ball Tutorial: https://learn.unity.com/tutorial/environment-and-player?projectId=5c51479fedbc2a001fd5bb9f
@@ -6,13 +7,18 @@ public class PlayerController : MonoBehaviour {
 
     public float speed;
     public Vector3 startingPosition;
+    public Text statusText;
 
     private Rigidbody rb;
     public Transform focus;
+    private CharacterController controller;
+    public MoveBase CharacterMover;
 
     void Start ()
     {
         rb = GetComponent<Rigidbody>();
+        controller = GetComponent<CharacterController>();
+        statusText.text = "";
     }
 
     void FixedUpdate ()
@@ -36,6 +42,7 @@ public class PlayerController : MonoBehaviour {
         rb.AddForce (movement * speed);
         //transform.LookAt(focus);
         //Figure out why it makes the player launch off, how to get movement to be relative to camera rotation
+        CharacterMover.Move(controller);
     }
     void OnCollisionEnter(Collision collision)
     {
@@ -50,6 +57,9 @@ public class PlayerController : MonoBehaviour {
         {
             other.gameObject.SetActive (false);
         }
+
+        statusText.text = "Acquired " + other.gameObject.name;
     }
     //Inspired by: https://learn.unity.com/tutorial/collecting-scoring-and-building-the-game?projectId=5c51479fedbc2a001fd5bb9f#5c7f8529edbc2a002053b789
 }
+//Text on screen inspired by: https://learn.unity.com/tutorial/collecting-scoring-and-building-the-game?projectId=5c51479fedbc2a001fd5bb9f#5c7f8529edbc2a002053b78b
