@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour {
     private CharacterController controller;
     public MoveBase CharacterMover;
 
+    public GameObject altCamera;
+    
     void Start ()
     {
         rb = GetComponent<Rigidbody>();
@@ -56,6 +58,12 @@ public class PlayerController : MonoBehaviour {
         if (other.gameObject.CompareTag ("Pick Up"))
         {
             other.gameObject.SetActive (false);
+        } else if (other.gameObject.CompareTag ("Bottom"))
+        {
+            altCamera = GameObject.FindWithTag("Alt-Camera");
+            altCamera.SetActive (true);
+            statusText.text = "Changing camera";
+            //Figure out why this isn't triggering, so I can trigger camera changes
         }
 
         statusText.text = "Acquired " + other.gameObject.name;
